@@ -107,6 +107,23 @@ The project contains visualizations such as:
 - Matplotlib
 
 ---
+## 📷 Sample Visualizations
+
+### Gender Distribution
+
+![Gender Distribution](images/gender_distribution.png)
+
+### Top Occupations
+
+![Top Occupations](images/top_occupations.png)
+
+### Top Countries
+
+![Top Countries](images/top_countries.png)
+
+### Timeline
+
+![Timeline](images/timeline.png)
 
 ## ▶️ How to Run
 
@@ -133,9 +150,15 @@ pip install pandas numpy matplotlib
 ```
 people-on-banknotes-eda/
 │
-├── people-on-banknotes.ipynb
+├── .gitignore
+├── LICENSE
 ├── README.md
-└── images/ (optional)
+├── people-on-banknotes.ipynb
+└── images/
+    ├── gender_distribution.png
+    ├── top_occupations.png
+    ├── top_countries.png
+    └── timeline.png
 ```
 
 ---
